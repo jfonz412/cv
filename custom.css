@@ -87,7 +87,21 @@ p {
 	font-size: 22px;
 }
 
+.responsibilities {
+	font-style: italic;
+}
+
 .resp {
 	text-decoration:underline;
+}
+
+.ref-span {
+	text-decoration: underline;
+	font-style: italic;
 	font-weight:bold;
+	font-size:20px;
+}
+
+.ref-p {
+	font-style: italic;
 }
